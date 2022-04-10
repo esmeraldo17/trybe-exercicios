@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Comunicacao
+JavaScript
+React
+MpngoDB
+SQL
